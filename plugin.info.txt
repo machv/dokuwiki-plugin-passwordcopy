@@ -1,0 +1,7 @@
+base   passwordcopy
+author Vladimír Mach
+email  vladimir@mach.im
+date   2019-12-10
+name   Password Copy
+desc   add option to copy passwords
+url    https://www.mach.im/
